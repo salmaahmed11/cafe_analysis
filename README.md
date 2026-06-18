@@ -1,4 +1,4 @@
-# # Coffee Shop Sales — Exploratory Data Analysis
+# Coffee Shop Sales — Exploratory Data Analysis
 
 Exploratory data analysis on a real coffee shop's transaction records spanning March 2024 to March 2025, covering 3,636 sales across 8 drink types.
 
